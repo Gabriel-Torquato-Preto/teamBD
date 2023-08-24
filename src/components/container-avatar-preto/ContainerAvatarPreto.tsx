@@ -1,9 +1,10 @@
 import React from "react";
-import { useState } from "react";
+import React, { useState } from "react";
 import Box from "@mui/material/Box";
 import Modal from "@mui/material/Modal";
 import { BsArrowRight } from "react-icons/bs";
 import "./ContainerAvatarPreto.css";
+import "../../../public/fotos/preto.png"
 
 const style = {
   position: "absolute",
