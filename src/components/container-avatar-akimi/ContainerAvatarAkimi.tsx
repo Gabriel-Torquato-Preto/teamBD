@@ -32,7 +32,7 @@ export default function ContainerAvatarAkimi() {
     <>
       <section className="container-avatar-content">
         <aside className="avatar-content">
-          <img className="img-avatar" src="../../../public/fotos/akimi.png" />
+          <img className="img-avatar" src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/akimi.png?alt=media&token=f02b8f9e-94dd-46f8-a0d5-a0e25a445bd5" />
         </aside>
         <aside className="avatar-description">
           <div className="title">
